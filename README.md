@@ -1,13 +1,11 @@
-### Hola, I'm Pawan Kumar! 👋
+### Hola, I'm Gunesh Shanbhag! 👋
 
-- 🔭 I’m currently working on Frontier Wallet.
-- 🌱 I’m currently learning Swift.
+- 🔭 I’m currently working on Steel Fault detection using Deep Learning.
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 📫 How to reach me: [LinkedIn - @gunesh-shanbhag525] (https://www.linkedin.com/in/gunesh-shanbhag525/) , [Twitter - @gunesh_shanbhag ](https://twitter.com/gunesh_shanbhag)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=gshanbhag525&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
