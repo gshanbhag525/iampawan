@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on Steel Fault detection using Deep Learning.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Youtube.
-- 📫 How to reach me: [LinkedIn - @gunesh-shanbhag525] (https://www.linkedin.com/in/gunesh-shanbhag525/) , [Twitter - @gunesh_shanbhag ](https://twitter.com/gunesh_shanbhag)
+- 📫 How to reach me: [LinkedIn - @gunesh-shanbhag525 ] (https://www.linkedin.com/in/gunesh-shanbhag525/) , 
+[Twitter - @gunesh_shanbhag ](https://twitter.com/gunesh_shanbhag)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
 
