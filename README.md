@@ -1,5 +1,5 @@
 <div><h3>Hola, I'm Gunesh Shanbhag!  👋             Visitors Count <img src="https://profile-counter.glitch.me/gshanbhag525/count.svg"/></h3>
-<br/> </div>
+</div>
 
 **Talking about Myself**
 
@@ -13,3 +13,9 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=gshanbhag525&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<hr/>
+
+## My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/gshanbhag525.gif?z=6)](https://github4life.herokuapp.com/gshanbhag525)
+
