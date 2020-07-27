@@ -1,6 +1,5 @@
-### Hola, I'm Gunesh Shanbhag! 👋
+### Hola, I'm Gunesh Shanbhag! 👋      <p align="right">Visitor count<img src="https://profile-counter.glitch.me/gshanbhag525/count.svg" /></p>
 
-- 🔭 I’m currently working on Steel Fault detection using Deep Learning.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Youtube.
 - 📫 How to reach me: [LinkedIn - @gunesh-shanbhag525 ](https://www.linkedin.com/in/gunesh-shanbhag525/) , 
