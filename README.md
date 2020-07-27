@@ -1,4 +1,4 @@
-### Hola, I'm Gunesh Shanbhag! 👋      <p align="right">Visitor count<img src="https://profile-counter.glitch.me/gshanbhag525/count.svg" /></p>
+### Hola, I'm Gunesh Shanbhag! 👋<p align="right">Visitor count<img src="https://profile-counter.glitch.me/gshanbhag525/count.svg" /></p>
 
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Youtube.
