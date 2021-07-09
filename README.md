@@ -5,8 +5,8 @@
 
 - 🔭  I'm currently doing Android Development
 - 🌱  I’m currently learning MVVM arch.
-- 📫  How to reach me: [LinkedIn - @gunesh-shanbhag525 ](https://www.linkedin.com/in/gunesh-shanbhag525/) , 
-[Twitter - @gunesh_shanbhag ](https://twitter.com/gunesh_shanbhag)
+- 📫  How to reach me: [LinkedIn ](https://www.linkedin.com/in/gunesh-shanbhag525/) , 
+[Twitter ](https://twitter.com/gunesh_shanbhag)
 
 <img src="https://github-readme-stats.vercel.app/api?username=gshanbhag525&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <hr/>
