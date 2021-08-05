@@ -3,8 +3,9 @@
 
 **Talking about Myself**
 
-- 🔭  I'm currently doing Android Development
-- 🌱  I’m currently learning MVVM arch.
+- 🔭  I'm currently doing React Development.
+- 🌱  I’m currently learning React Hooks.
+- 🧙🏻‍♂️  I'm well versed with Modern Web Devloment and programming languages like Java.
 - 📫  How to reach me: [LinkedIn ](https://www.linkedin.com/in/gunesh-shanbhag525/) , 
 [Twitter ](https://twitter.com/gunesh_shanbhag)
 
