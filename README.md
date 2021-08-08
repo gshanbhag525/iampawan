@@ -1,4 +1,11 @@
-<div><h3>Hola, I'm Gunesh Shanbhag!  👋  <br/><img src="https://profile-counter.glitch.me/gshanbhag525/count.svg"/> Profile Visits</h3>
+<div>
+  <h3>
+    Hola, I'm Gunesh Shanbhag!  👋  
+    <br/>
+    <img src="https://profile-counter.glitch.me/gshanbhag525/count.svg"/>
+    <br/>
+    Profile Visits
+  </h3>
 </div>
 
 **Talking about Myself**
