@@ -11,10 +11,10 @@
 <hr/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gshanbhag525&color=brightgreen)
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-gunesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunesh-shanbhag525/)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-gunesh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gshanbhag525@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-gunesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunesh-shanbhag525/)
+![Gmail Badge](https://img.shields.io/badge/-gunesh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gshanbhag525@gmail.com)
 ![Website Badge](https://img.shields.io/badge/-gshan.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gshan.me)
-![Twitter Badge](https://img.shields.io/badge/-@Twitter-gunesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gunesh_shanbhag)
+![Twitter Badge](https://img.shields.io/badge/-@gunesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gunesh_shanbhag)
 
 ## My GitHub contributions as a Game of Life
 
