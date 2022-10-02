@@ -8,12 +8,15 @@
 **Talking about Myself**
 
 - 🔭  Currently Exploring building end to end Software systems.
-- 🚀  Interested in Frontend ecosystem such as Reactjs
+- 🚀  Have experience in AWS cdk, ECS, Fargate, Docker.
+- 😎  Built serverless ecommerce backend using aws stack.
+- 👏🏻  AWS certified Solutions Architect.
+- 👌🏻  Have worked with AWS Dynamodb, aurora serveless,ec2, s3,lambda,ecs
 - 👨🏻‍💻  An avid Problem solver. 
 
 ![Linkedin Badge](https://img.shields.io/badge/-gunesh_shanbhag525-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunesh-shanbhag525/)
 ![Gmail Badge](https://img.shields.io/badge/-gshanbhag525-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gshanbhag525@gmail.com)
-![Website Badge](https://img.shields.io/badge/-gshan.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gshan.dev)
+![Website Badge](https://img.shields.io/badge/-gshan.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://guneshs.com)
 
 
 ### Languages and Tools:
